@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: TOPSIS-AMAN-102103043
+Version: 0.2
+Summary: A Python package for Topsis analysis
+Home-page: https://github.com/iosaman503/TOPSIS-AMAN-102103043
+Author: Aman Verma
+Author-email: averma3_be21@thapar.edu
+License: MIT
+Description: It's a Python Package to implement Topsis by Aman Verma for the first assignment at Thapar University,Patiala
+Keywords: topsis analysis
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6

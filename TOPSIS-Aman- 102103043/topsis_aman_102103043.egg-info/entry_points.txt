@@ -1,0 +1,3 @@
+[console_scripts]
+console_scripts = 102103043_script = topsis_aman_102103043.aman:main
+
